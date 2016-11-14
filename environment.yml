@@ -1,0 +1,3 @@
+name: python_tf
+dependencies:
+- tensorflow=0.11.0rc0
