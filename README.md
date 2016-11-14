@@ -12,3 +12,4 @@ You can run the Binder to get results like the following input-latent code-outpu
 Also, you can visualize the latent code in 2D using Hamming distance based t-SNE:    
 <img src="tsne.png">
 
+I think this is a nice way to look into image hashing for image retrieval/search/etc. I'm excited to check how it scales up to real images...
