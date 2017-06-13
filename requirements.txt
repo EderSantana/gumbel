@@ -1,3 +1,3 @@
-git+https://github.com/AgnezIO/agnez.git@55657e5148ce58493f1847a
+git+https://github.com/AgnezIO/agnez.git
 seaborn
 keras
